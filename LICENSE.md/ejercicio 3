@@ -1,0 +1,2 @@
+var newObject={comida:"banana,", apellido: "silva", edad:24, sexo: "m"};
+console.log(newObject);
