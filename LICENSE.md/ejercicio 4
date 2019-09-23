@@ -1,0 +1,10 @@
+var texto1 = "tengo un canal de youtube";
+var texto2 = "tengo sueño";
+var textoFinal = youChoose(texto1,texto2);
+
+console.log(textoFinal);
+
+function youChoose(txt2,txt1){
+    texto = txt2+" "+txt1;
+    return texto;
+}
